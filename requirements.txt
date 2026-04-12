@@ -1,0 +1,4 @@
+google-adk
+google-generativeai
+flake8
+pylint
